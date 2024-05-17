@@ -3,7 +3,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -38,6 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
 </div>
 <br>
+<br>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamzayene&show_icons=true&locale=en&layout=compact" alt="adamzayene" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamzayene&" alt="adamzayene" /></p>
+</div>
