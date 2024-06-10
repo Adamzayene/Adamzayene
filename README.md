@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Zayene(black_shadow)</h1>
 <h3 align="center">I am a university student specializing in computer science, with a keen interest in cybersecurity and advanced computer technology.</h3>
 
-<script src="https://tryhackme.com/badge/1521865"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/lime404.png" alt="TryHackMe">
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <div align="left">
