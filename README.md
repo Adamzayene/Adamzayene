@@ -4,7 +4,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" height="40" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" height="40" alt="qt logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch-Dark.svg" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -35,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+
 </div>
 <br>
 <br>
